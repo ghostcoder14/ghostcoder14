@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghostcoder14" alt="ghostcoder14" /></a> </p>
 
-- 🔭 I’m currently working on [Video Streaming Web application](https://github.com/ghostcoder14/Video-Streaming-Web-Application)
+- 🔭 I’m currently working on [Video Streaming Web application](https://github.com/ghostcoder14/AI-Resume-Analyzer)
 
 - 🌱 I’m currently learning **MongoDB , Express.js , React.js , Next.js , Python , JavaScript**
 
