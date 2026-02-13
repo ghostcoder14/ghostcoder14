@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ghostcoder14](https://github.com/ghostcoder14)
+- 👨‍💻 All of my projects are available at [https://github.com/ghostcoder14](https://github.com/ghostcoder14/AI-Resume-Analyzer)
 
 - 💬 Ask me about **Full Stack Development**
 
